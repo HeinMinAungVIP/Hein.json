@@ -1,0 +1,68 @@
+{
+   "files": [ 
+
+      {
+         "name": "DTACNODAY_GAME1",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/DTAC-01.ovpn"
+      },
+
+
+{
+         "name": "DTACNODAY_GAME2 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/DTAC-02.ovpn"
+      },
+
+
+{
+         "name": "DTACNODAY_GAME3 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/DTAC-03.ovpn"
+      },
+
+
+{
+         "name": "DTACNODAY_GAME4 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/DTAC-04.ovpn"
+      },
+
+
+{
+         "name": "DTACNODAY_GAME5 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/DTAC-05.ovpn"
+      },
+
+
+
+{
+         "name": "TRUENODAY_GAME1",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/TRUE-01.ovpn"
+      }
+
+,
+{
+         "name": "TRUENODAY_GAME2 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/TRUE-02.ovpn"
+      }
+,
+
+{
+         "name": "TRUENODAY_GAME3 
+",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/TRUE-03.ovpn"
+      }
+,
+
+{
+         "name": "TRUENODAY_GAME4 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/TRUE-04.ovpn"
+      }
+,
+
+{
+         "name": "TRUENODAY_GAME5 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/TRUE-05.ovpn"
+      }
+   ],
+"message":"2022 5 26\nHeinLay:APK:VERSION:NEW 1\nUpdate by: HeinMinAung\nFREE FILE UPDATE NEWS ",
+   "title":"UPDATE NEW" ,
+   "version": 1
+}
