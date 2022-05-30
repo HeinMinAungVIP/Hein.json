@@ -1,0 +1,68 @@
+{
+   "files": [ 
+
+      {
+         "name": "DTAC30DAY_GAME1",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/DTAC_001.ovpn"
+      },
+
+
+{
+         "name": "DTAC30DAY_GAME2 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/DTAC_002.ovpn"
+      },
+
+
+{
+         "name": "DTAC30DAY_GAME3 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/DTAC_003.ovpn"
+      },
+
+
+{
+         "name": "DTAC30DAY_GAME4 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/DTAC_004.ovpn"
+      },
+
+
+{
+         "name": "DTAC30DAY_GAME5 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/DTAC_005.ovpn"
+      },
+
+
+
+{
+         "name": "TRUE30DAY_GAME1",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/TRUE_001.ovpn"
+      }
+
+,
+{
+         "name": "TRUE30DAY_GAME2 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/TRUE_002.ovpn"
+      }
+,
+
+{
+         "name": "TRUE30DAY_GAME3 
+",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/TRUE_003.ovpn"
+      }
+,
+
+{
+         "name": "TRUE30DAY_GAME4 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/TRUE_004.ovpn"
+      }
+,
+
+{
+         "name": "TRUE30DAY_GAME5 ",
+         "url": "https://raw.githubusercontent.com/HeinMinAungVIP/Hein.json/main/TRUE_005.ovpn"
+      }
+   ],
+"message":"HiinMinAung:FreeNetVPN-2022NEWUPDATE\nHeinLay:APK:VERSION:NEW 1\nUpdate by: HeinMinAung\nFREE FILE UPDATE NEWS ",
+   "title":"UPDATE NEW" ,
+   "version": 1
+}
